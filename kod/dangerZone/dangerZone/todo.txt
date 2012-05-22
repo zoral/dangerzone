@@ -1,0 +1,17 @@
+﻿
+ATT GÖRA:
+
+* lägga in elstängsel. när man träffar dem så förlorar man ett liv + teleporteras nånstans.
+* Fixa till så kameran zoomar ut/in beroende på hur mycket man kan se av spelarna.
+* Fixa så man kan ha olika färger på ljuset...
+
+* Större lampor som ska sitta i hörnen
+* Backdroppen ska målas ut UNDER arena, fence och publik...
+
+
+FIXAT:
+
+* När spelaren blir träffad av en fiende så förlorar man ett liv och blir odödlig i x sekunder. 2012-05-02
+* Fixa vibration när man blir träffad. 2012-05-02
+* Vågorna kommer inte som de ska. Räknar ner + extra nerräkning, inte ok. 2012-05-02
+* Railgun ska ha en annan bullet. Ett spår/rail... 2012-05-03
