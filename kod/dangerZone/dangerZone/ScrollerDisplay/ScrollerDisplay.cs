@@ -20,6 +20,8 @@ namespace dangerZone.ScrollerDisplay
         int m_nYDirection = -1;
         bool m_bInUse = false;
 
+        // Testar att committa med github ...
+
         public void Init(string szLetter, Vector2 pPosition, Vector2 pVelocity)
         {
             m_szLetter = szLetter;
